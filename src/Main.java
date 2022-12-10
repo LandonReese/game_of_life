@@ -1,4 +1,4 @@
-//Landon Reese
+//Landon Reese - Conways Game of Life in Java
 
 import java.io.File;
 import java.io.FileInputStream;
